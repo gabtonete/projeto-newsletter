@@ -6,4 +6,4 @@
 
 ## Frontend
 
-<a href="https://github.com/gabtonete/frontend-newsletter-nextjs">Frontend em nextjs com integração à api usando o Axios</a>
+<a href="https://github.com/gabtonete/frontend-newsletter-nextjs">- Frontend em nextjs com integração à api usando o Axios</a>
